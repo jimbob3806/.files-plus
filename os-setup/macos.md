@@ -31,14 +31,21 @@ Please see the following list of 3rd party desktop applications
 - [Steam](https://store.steampowered.com/)
 - [Chrome](https://www.google.com/intl/en_uk/chrome/dr/download/?brand=IBEF&ds_kid=43700074514338882&gclid=EAIaIQobChMIvaf4zbbNgwMVqZhQBh1sCQT0EAAYASAAEgIylPD_BwE&gclsrc=aw.ds)
 - [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
+- [Opera](https://www.opera.com/)
 - [Obsidian](https://obsidian.md)
 - [Notion](https://www.notion.so)
+- [Notion Calender](https://www.notion.so/product/calendar)
 - [Spotify](https://www.spotify.com/de-en/download/other/)
 - [WhatsApp](https://www.whatsapp.com/download)
 - [Discord](https://discord.com/download)
 - [Libre Office](https://www.libreoffice.org/)
 - [Zettlr](https://www.zettlr.com/)
 - [Typora](https://typora.io/)
+- [Loom](https://www.loom.com/)
+- [Local Send](https://localsend.org/#/)
+- [Gantt Project](https://www.ganttproject.biz/)
+
+(take note of application organisation in launcher - all apps organised on one page, using groups, and most important apps listed independently)
 
 ### iTerm Configuration
 
